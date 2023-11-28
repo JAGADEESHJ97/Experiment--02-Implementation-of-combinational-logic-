@@ -27,7 +27,13 @@ RegisterNumber:
 ## RTL realization
 
 ## Output:
+![de pro 2](https://github.com/JAGADEESHJ97/Experiment--02-Implementation-of-combinational-logic-/assets/152129419/5754e053-af0b-4661-be50-14a09ebc2c64)
+
 ## RTL
+![de pro 2 rtl](https://github.com/JAGADEESHJ97/Experiment--02-Implementation-of-combinational-logic-/assets/152129419/0da34c30-3e2c-41d8-b43d-58a8bbc5c85f)
+
 ## Timing Diagram
+![de pro 2 time](https://github.com/JAGADEESHJ97/Experiment--02-Implementation-of-combinational-logic-/assets/152129419/10caa812-f36d-4fa3-809b-5ac5370119ab)
+
 ## Result:
 Thus the given logic functions are implemented using  and their operations are verified using Verilog programming.
